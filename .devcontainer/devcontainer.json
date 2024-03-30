@@ -34,7 +34,8 @@
 				"ritwickdey.LiveServer",
 				"esbenp.prettier-vscode",
 				"ChairImpSec.prolead",
-				"vscode-icons-team.vscode-icons"
+				"vscode-icons-team.vscode-icons",
+				"xdebug.php-debug"
 			]
 		}
 	}
